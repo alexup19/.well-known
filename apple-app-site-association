@@ -3,9 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-          "com.staffzone.workers.app"
-        ],
+        "appID": "L9664A93W5.com.staffzone.workers.app",
         "paths": [
           "*"
         ]
