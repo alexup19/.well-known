@@ -1,9 +1,12 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "com.staffzoneworkersapp",
-    "package_name": "com.staffzoneworkersapp",
-    "sha256_cert_fingerprints":
-    ["32:45:90:22:57:D9:FC:8F:F0:4B:65:CC:5B:F2:2F:43:96:56:B2:3E:0F:62:9D:0B:50:03:09:04:1D:42:A8:B8"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.staffzoneworkersapp",
+      "sha256_cert_fingerprints": [
+        "4C:40:94:BB:D1:F3:22:FD:8C:D2:9B:B5:A0:91:8D:E6:9A:45:37:CE:40:B4:69:7F:7A:EF:DF:53:28:F4:DE:6D"
+      ]
+    }
   }
-}]
+]
